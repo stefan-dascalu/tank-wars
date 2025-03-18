@@ -1,0 +1,3 @@
+/home/student/Documents/gfx-framework-master/CMakeFiles/GFXFramework.dir
+/home/student/Documents/gfx-framework-master/CMakeFiles/edit_cache.dir
+/home/student/Documents/gfx-framework-master/CMakeFiles/rebuild_cache.dir

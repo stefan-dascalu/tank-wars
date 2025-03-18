@@ -1,7 +1,7 @@
 # Tank Wars – Real-Time Battle Simulation
 
 ## Author
-**Dascalu Ștefan-Nicolae**
+**Dascalu Stefan-Nicolae**
 
 ## Design Overview
 
